@@ -5,5 +5,5 @@ function getName() {
   return firstName + " " + lastName;
 }
 function getAge() {
-return Math.floor(Math.rand() * 100);
+  return Math.floor(Math.rand() * 100);
 }
